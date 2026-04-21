@@ -1,4 +1,4 @@
-import prisma from '../config/prisma.config';
+import prisma from '../../config/prisma.config';
 import { CreateUserInput } from './user.type';
 
 export const userRepository = {
